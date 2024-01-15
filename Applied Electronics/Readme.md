@@ -12,7 +12,7 @@ The document titled "Applied Electronics" outlines a project involving the creat
 
 6. **Data File Mention**: The document refers to a spreadsheet titled "Applied Electronics Data.xlsx" containing relevant data.
 
-This summary provides an overview of the project's scope and objectives. The next step is to write a README.md file for the project, integrating this information with the Python code in 'Project1_Final.py'.
+This summary provides an overview of the project's scope and objectives. The next step is to write a README.md file for the project, integrating this information with the Python code in 'code.py'.
 
 # README.md for Applied Electronics Project
 
