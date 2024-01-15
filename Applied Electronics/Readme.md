@@ -45,3 +45,7 @@ This assignment emphasizes original programming solutions for VAM without relyin
 
 ---
 *Note: This README provides a high-level summary and should be used alongside the provided Python code and data file for a comprehensive understanding of the project.*
+
+
+# contributors:
+Seth Abayo, Lanston Chen, Guangming (Dola) Qiu, Yizhou (Paul) Sun, Yihua (Anthony) Wang
