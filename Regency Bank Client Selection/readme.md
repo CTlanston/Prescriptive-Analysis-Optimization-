@@ -27,3 +27,8 @@ To create a model that assesses the attractiveness of potential clients over thr
 
 ---
 *Note: This README provides an overview of the project's goals and methods. For detailed implementation and findings, refer to the provided Python code and project documentation.*
+
+
+
+# contributors:
+Lanston Chen, Guangming (Dola) Qiu, Yizhou (Paul) Sun, Yihua (Anthony) Wang,Seth Abayo
