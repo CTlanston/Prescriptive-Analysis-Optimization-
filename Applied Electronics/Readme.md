@@ -48,4 +48,4 @@ This assignment emphasizes original programming solutions for VAM without relyin
 
 
 # contributors:
-Seth Abayo, Lanston Chen, Guangming (Dola) Qiu, Yizhou (Paul) Sun, Yihua (Anthony) Wang
+Lanston Chen, Guangming (Dola) Qiu, Yizhou (Paul) Sun, Yihua (Anthony) Wang,Seth Abayo
