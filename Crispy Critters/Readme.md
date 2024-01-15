@@ -29,3 +29,7 @@ To develop an optimal production process that maximizes the yield of beneficial 
 
 ---
 *Note: This README provides an overview of the project objectives and methodology. For detailed implementation and analysis, refer to the provided Python code and data files.*
+
+
+# contributors:
+Lanston Chen, Guangming (Dola) Qiu, Yizhou (Paul) Sun, Yihua (Anthony) Wang,Seth Abayo
